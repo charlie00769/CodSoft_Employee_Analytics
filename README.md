@@ -1,10 +1,10 @@
-# 📊 Employee Attrition Analytics Dashboard
+📊 Employee Attrition Analytics Dashboard
 
 An interactive Employee Attrition Analytics Dashboard developed using **Python, Streamlit, Pandas, and Plotly**. This project analyzes employee attrition patterns through Exploratory Data Analysis (EDA) and interactive visualizations to help understand factors affecting employee retention.
 
 ---
 
-## 📌 Project Overview
+ 📌 Project Overview
 
 Employee attrition is an important HR challenge that impacts organizational performance. This project uses the IBM HR Analytics Employee Attrition dataset to explore employee demographics, income, departments, overtime, and attrition trends.
 
@@ -17,7 +17,7 @@ The project consists of:
 
 ---
 
-## 🚀 Features
+ 🚀 Features
 
 - Interactive dashboard built with Streamlit
 - Department, Gender, and Attrition filters
@@ -36,7 +36,7 @@ The project consists of:
 
 ---
 
-## 🛠️ Technologies Used
+ 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -48,7 +48,7 @@ The project consists of:
 
 ---
 
-## 📂 Project Structure
+ 📂 Project Structure
 
 ```
 Employee-Attrition-Analytics/
@@ -71,7 +71,7 @@ Employee-Attrition-Analytics/
 
 ---
 
-## 📊 Dashboard Preview
+ 📊 Dashboard Preview
 
 Add screenshots of your dashboard inside the `images` folder.
 
@@ -85,7 +85,6 @@ images/
 
 Then include them like this:
 
-```markdown
 ![Dashboard](images/dashboard.png)
 
 ![EDA](images/eda.png)
@@ -93,7 +92,7 @@ Then include them like this:
 
 ---
 
-## 📈 Exploratory Data Analysis
+ 📈 Exploratory Data Analysis
 
 The notebook includes:
 
@@ -113,7 +112,7 @@ The notebook includes:
 
 ---
 
-## 💡 Key Insights
+💡 Key Insights
 
 - Employees working overtime show a higher attrition rate.
 - Most employees are between 30 and 40 years old.
@@ -123,7 +122,7 @@ The notebook includes:
 
 ---
 
-## 📁 Dataset
+ 📁 Dataset
 
 **Dataset:** IBM HR Analytics Employee Attrition & Performance
 
@@ -142,27 +141,27 @@ The dataset contains information about employees including:
 
 ---
 
-## ▶️ How to Run the Project
+ ▶️ How to Run the Project
 
-### 1. Clone the Repository
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/charlie00769/CodeAlpha_Employee_Analytics.git
 ```
 
-### 2. Navigate to the Project Folder
+ 2. Navigate to the Project Folder
 
 ```bash
 cd CodeAlpha_Employee_Analytics
 ```
 
-### 3. Install Dependencies
+ 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Run the Dashboard
+ 4. Run the Dashboard
 
 ```bash
 python -m streamlit run dashboard/app.py
@@ -170,16 +169,16 @@ python -m streamlit run dashboard/app.py
 
 ---
 
-## 📚 Internship Tasks Completed
+📚 Internship Tasks Completed
 
-### ✅ Task 2 – Exploratory Data Analysis (EDA)
+ ✅ Task 2 – Exploratory Data Analysis (EDA)
 
 - Data Cleaning
 - Data Exploration
 - Statistical Analysis
 - Business Insights
 
-### ✅ Task 3 – Data Visualization
+✅ Task 3 – Data Visualization
 
 - Interactive Dashboard
 - KPI Cards
@@ -188,7 +187,7 @@ python -m streamlit run dashboard/app.py
 
 ---
 
-## 👨‍💻 Author
+ 👨‍💻 Author
 
 **Kaustubh Valanjuwani**
 
@@ -200,6 +199,6 @@ GitHub: https://github.com/charlie00769
 
 ---
 
-## ⭐ Support
+⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
